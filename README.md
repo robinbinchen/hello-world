@@ -1,2 +1,3 @@
 # hello-world
-start my first repository
+Hi Everyone,
+  I'm Robin Chen, here is my first repository.
